@@ -1,1 +1,0 @@
-py contribute.py --repository=git@github.com:BritnessDev/nft-minting-webmaster.git -sd="2021/03/01, 18:54:33" -nw
